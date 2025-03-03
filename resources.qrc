@@ -1,0 +1,12 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+	<file>qss/historytabledarkstyle.qss</file>
+	<file>qss/historytablelightstyle.qss</file>
+	<file>qss/thememodebuttondarkstyle.qss</file>
+	<file>qss/thememodebuttonlightstyle.qss</file>
+	<file>qss/mainwindowdarkstyle.qss</file>
+	<file>qss/mainwindowlightstyle.qss</file>
+	<file>icons/sun.png</file>
+	<file>icons/moon.png</file>
+</qresource>
+</RCC>

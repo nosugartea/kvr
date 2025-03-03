@@ -1,0 +1,4 @@
+QMainWindow {
+    background-color: #fffafa;
+    color: #2E3440;
+}
